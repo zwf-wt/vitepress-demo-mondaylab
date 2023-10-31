@@ -7,12 +7,19 @@ export default defineConfig({
   description: "无它博客",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/avatar.jpg',
     nav,
-
     sidebar,
-
+    outline: {
+      level: [2, 6],
+      label: '目录'
+    },
+    search: {
+      provider: 'local'
+    },
+    i18nRouting: true,
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/' }
     ]
   },
   markdown: {

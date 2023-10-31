@@ -6,6 +6,9 @@ hero:
   name: "wuta"
   text: "无它博客"
   tagline: 个人博客
+  image:
+    src: /logo.png
+    alt: logo
   actions:
     - theme: brand
       text: Markdown Examples
@@ -17,9 +20,8 @@ hero:
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: git
+    details: git规范
+    link: /column/views/git
 ---
 

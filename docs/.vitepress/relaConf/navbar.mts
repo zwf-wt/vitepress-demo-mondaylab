@@ -10,6 +10,10 @@ export const nav: DefaultTheme.NavItem[] = [
         text: '掘金',
         link: 'https://juejin.cn'
       },
+      {
+        text: '无它工具',
+        link: 'https://zhang_wen_fa.gitee.io/wuta_tools_view2/#/'
+      }
     ]
   },
   {
