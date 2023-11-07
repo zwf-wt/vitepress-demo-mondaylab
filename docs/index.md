@@ -18,8 +18,10 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 设计模式
+    details: 设计模式
+    link: /column/views/design_pattern
+
   - title: git
     details: git规范
     link: /column/views/git
