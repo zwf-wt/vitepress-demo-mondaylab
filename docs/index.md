@@ -14,8 +14,8 @@ hero:
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 数据结构
+      link: /column/views/algorithm/sort/index
 
 features:
   - title: 设计模式

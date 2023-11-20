@@ -15,5 +15,11 @@ export const sidebar: DefaultTheme.Sidebar = {
         }
       ]
     },
-  ]
+  ],
+  '/column/views/algorithm': [
+    {
+      text: '排序',
+      link: '/column/views/algorithm/sort/index'
+    }
+  ],
 }
