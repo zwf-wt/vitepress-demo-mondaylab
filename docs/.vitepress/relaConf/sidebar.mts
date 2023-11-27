@@ -22,4 +22,19 @@ export const sidebar: DefaultTheme.Sidebar = {
       link: '/column/views/algorithm/sort/index'
     }
   ],
+  '/column/views/git': [
+    {
+      text: 'Git',
+      items: [
+        {
+          text: 'git常用命令',
+          link: '/column/views/git/common_command'
+        },
+        {
+          text: 'git规范',
+          link: '/column/views/git/git_norm'
+        },
+      ]
+    }
+  ]
 }

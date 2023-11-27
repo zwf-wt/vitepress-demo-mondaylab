@@ -24,6 +24,6 @@ features:
 
   - title: git
     details: git规范
-    link: /column/views/git
+    link: /column/views/git/git_norm
 ---
 
